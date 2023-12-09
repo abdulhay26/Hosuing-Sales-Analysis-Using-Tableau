@@ -18,9 +18,8 @@ This project focuses on leveraging Tableau for in-depth exploration of house sal
 
 ## Getting Started
 To explore the project:
-1. Clone the repository: `git clone https://github.com/yourusername/Tableau-House-Sale-Analysis.git`
-2. Access the `/visualizations` directory to view Tableau workbooks.
-3. Refer to the `/code` directory for any specific data processing scripts or notebooks.
+1. Clone the repository: `git clone https://github.com/abdulhay26/Hosuing-Sales-Analysis-Using-Tableau/
+2.  Access the `/housesale` directory to view Tableau workbooks.
 
 ## Contributions and Feedback
 Contributions and feedback are welcome! Feel free to open issues or pull requests for any improvements or suggestions.
@@ -30,4 +29,4 @@ For any inquiries or collaborations related to this project, please reach out vi
 
 ---
 
-Adjust the placeholders like `[email]`, `[LinkedIn]`, and `yourusername` with the appropriate links or information. This README provides an overview, guidance on accessing the project, and encourages collaboration or feedback.
+Adjust the placeholders like `abdul786hay@gmail.com`, `https://www.linkedin.com/in/k-abdul-hayyu-106147167/`, with the appropriate links or information. This README provides an overview, guidance on accessing the project, and encourages collaboration or feedback.
